@@ -1,0 +1,194 @@
+{
+  "version": 3,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
+      "installedAt": "2026-02-04T07:21:52.778Z",
+      "updatedAt": "2026-09-16T08:53:26.328Z"
+    },
+    "karpathy-guidelines": {
+      "source": "multica-ai/andrej-karpathy-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/multica-ai/andrej-karpathy-skills.git",
+      "skillPath": "skills/karpathy-guidelines/SKILL.md",
+      "skillFolderHash": "e119339197d600aa39a24fd7a95c946800c9c949",
+      "pluginName": "andrej-karpathy-skills",
+      "installedAt": "2026-04-27T14:53:05.251Z",
+      "updatedAt": "2026-07-23T13:03:23.431Z"
+    },
+    "status": {
+      "source": "q00/ouroboros",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/q00/ouroboros.git",
+      "skillPath": "skills/status/SKILL.md",
+      "skillFolderHash": "d4f09e01a3176eb051f7920040c869e807181a92",
+      "installedAt": "2026-05-04T14:30:09.312Z",
+      "updatedAt": "2026-05-04T14:30:09.312Z"
+    },
+    "cavecrew": {
+      "source": "JuliusBrussee/caveman",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/JuliusBrussee/caveman.git",
+      "skillPath": "skills/cavecrew/SKILL.md",
+      "skillFolderHash": "58b9a0bdb00d97953bfc840cb4dc3b38faf03759",
+      "installedAt": "2026-06-12T14:58:09.220Z",
+      "updatedAt": "2026-09-16T08:54:06.633Z"
+    },
+    "caveman": {
+      "source": "JuliusBrussee/caveman",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/JuliusBrussee/caveman.git",
+      "skillPath": "skills/caveman/SKILL.md",
+      "skillFolderHash": "02b646b008b9d1e5b67e5f65fab56fd7073d9212",
+      "installedAt": "2026-06-12T14:58:09.222Z",
+      "updatedAt": "2026-09-16T08:54:08.713Z"
+    },
+    "caveman-compress": {
+      "source": "JuliusBrussee/caveman",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/JuliusBrussee/caveman.git",
+      "skillPath": "skills/caveman-compress/SKILL.md",
+      "skillFolderHash": "1f4d964edb53b0ba264638a028011246a3839013",
+      "installedAt": "2026-06-12T14:58:09.222Z",
+      "updatedAt": "2026-09-16T08:54:11.253Z"
+    },
+    "orchestration": {
+      "source": "stablyai/orca",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/stablyai/orca.git",
+      "skillPath": "skills/orchestration/SKILL.md",
+      "skillFolderHash": "ebd864919dd8cab9d7049fc624c9afeebce2767c",
+      "installedAt": "2026-07-17T12:46:28.315Z",
+      "updatedAt": "2026-09-10T23:32:04.222Z"
+    },
+    "computer-use": {
+      "source": "stablyai/orca",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/stablyai/orca.git",
+      "skillPath": "skills/computer-use/SKILL.md",
+      "skillFolderHash": "fab1436f0d73889492279544eadebc9bcc2694b6",
+      "installedAt": "2026-07-17T12:49:29.929Z",
+      "updatedAt": "2026-09-10T23:31:43.120Z"
+    },
+    "orca-cli": {
+      "source": "stablyai/orca",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/stablyai/orca.git",
+      "skillPath": "skills/orca-cli/SKILL.md",
+      "skillFolderHash": "0c90a5b8b422a93ca806af6df3b65445ab5b2072",
+      "installedAt": "2026-07-17T12:49:29.930Z",
+      "updatedAt": "2026-09-16T08:54:19.908Z"
+    },
+    "orca-per-workspace-env": {
+      "source": "stablyai/orca",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/stablyai/orca.git",
+      "skillPath": "skills/orca-per-workspace-env/SKILL.md",
+      "skillFolderHash": "49103d96472ad790758f14cfc3ed5c69434a6f1b",
+      "installedAt": "2026-07-19T08:50:14.957Z",
+      "updatedAt": "2026-09-10T23:31:01.542Z"
+    },
+    "agent-browser": {
+      "source": "vercel-labs/agent-browser",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-browser.git",
+      "skillPath": "skills/agent-browser/SKILL.md",
+      "skillFolderHash": "82def67855a0d2aad7794207951820fa5422fdb0",
+      "installedAt": "2026-08-04T05:55:02.493Z",
+      "updatedAt": "2026-09-16T08:54:21.659Z"
+    },
+    "git-lgnh": {
+      "source": "loegnah/ai-kit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/loegnah/ai-kit.git",
+      "skillPath": "skills/git-lgnh/SKILL.md",
+      "skillFolderHash": "4385e794dc0f55ed640c4ba981eec4ac978a9e5c",
+      "installedAt": "2026-09-06T16:41:12.989Z",
+      "updatedAt": "2026-09-21T02:37:18.954Z"
+    },
+    "work-lgnh": {
+      "source": "loegnah/ai-kit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/loegnah/ai-kit.git",
+      "skillPath": "skills/work-lgnh/SKILL.md",
+      "skillFolderHash": "25693ded0540db0fd743cbdf064638d30b0971fb",
+      "installedAt": "2026-09-06T16:41:12.994Z",
+      "updatedAt": "2026-09-21T02:37:18.954Z"
+    },
+    "etc-lgnh": {
+      "source": "loegnah/ai-kit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/loegnah/ai-kit.git",
+      "skillPath": "skills/etc-lgnh/SKILL.md",
+      "skillFolderHash": "903a1d0ec667c7a2e1bc0013e67534333f265437",
+      "installedAt": "2026-09-07T06:18:48.374Z",
+      "updatedAt": "2026-09-21T02:37:18.953Z"
+    },
+    "ego-browser": {
+      "source": "citrolabs/ego-lite",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/citrolabs/ego-lite.git",
+      "skillPath": "skills/ego-browser/SKILL.md",
+      "skillFolderHash": "de51555db49c45d5491939b0e7485b832a03c902",
+      "installedAt": "2026-09-10T04:19:47.287Z",
+      "updatedAt": "2026-09-16T08:54:24.818Z"
+    },
+    "diagram-design": {
+      "source": "cathrynlavery/diagram-design",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
+      "skillPath": "skills/diagram-design/SKILL.md",
+      "skillFolderHash": "6ce840146555c1555daa28fcce61b5bdfafd02a7",
+      "installedAt": "2026-09-14T10:43:59.358Z",
+      "updatedAt": "2026-09-16T08:54:30.895Z"
+    },
+    "archify": {
+      "source": "tt-a1i/archify",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/tt-a1i/archify.git",
+      "skillPath": "archify/SKILL.md",
+      "skillFolderHash": "9d919f12fd71485866d79aeacd2d9dae2883433a",
+      "installedAt": "2026-09-16T08:53:01.517Z",
+      "updatedAt": "2026-09-16T08:53:01.517Z"
+    },
+    "brain-lgnh": {
+      "source": "loegnah/ai-kit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/loegnah/ai-kit.git",
+      "skillPath": "skills/brain-lgnh/SKILL.md",
+      "skillFolderHash": "776c8690bbfa33918db5f135951cabf8e6a52b97",
+      "installedAt": "2026-09-17T10:02:29.575Z",
+      "updatedAt": "2026-09-21T02:37:18.950Z"
+    },
+    "dev-lgnh": {
+      "source": "loegnah/ai-kit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/loegnah/ai-kit.git",
+      "skillPath": "skills/dev-lgnh/SKILL.md",
+      "skillFolderHash": "93f1b48e29bac1425bb10c0f7409c199a1626438",
+      "installedAt": "2026-09-17T10:38:07.508Z",
+      "updatedAt": "2026-09-21T02:37:18.952Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "cline",
+    "codex",
+    "cursor",
+    "droid",
+    "gemini-cli",
+    "github-copilot",
+    "kilo",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed"
+  ]
+}
