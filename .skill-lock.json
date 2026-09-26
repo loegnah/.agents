@@ -92,15 +92,6 @@
       "installedAt": "2026-07-19T08:50:14.957Z",
       "updatedAt": "2026-09-10T23:31:01.542Z"
     },
-    "agent-browser": {
-      "source": "vercel-labs/agent-browser",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/vercel-labs/agent-browser.git",
-      "skillPath": "skills/agent-browser/SKILL.md",
-      "skillFolderHash": "82def67855a0d2aad7794207951820fa5422fdb0",
-      "installedAt": "2026-08-04T05:55:02.493Z",
-      "updatedAt": "2026-09-16T08:54:21.659Z"
-    },
     "git-lgnh": {
       "source": "loegnah/ai-kit",
       "sourceType": "github",
