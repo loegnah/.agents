@@ -20,15 +20,6 @@
       "installedAt": "2026-04-27T14:53:05.251Z",
       "updatedAt": "2026-07-23T13:03:23.431Z"
     },
-    "status": {
-      "source": "q00/ouroboros",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/q00/ouroboros.git",
-      "skillPath": "skills/status/SKILL.md",
-      "skillFolderHash": "d4f09e01a3176eb051f7920040c869e807181a92",
-      "installedAt": "2026-05-04T14:30:09.312Z",
-      "updatedAt": "2026-05-04T14:30:09.312Z"
-    },
     "cavecrew": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
@@ -43,54 +34,54 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/JuliusBrussee/caveman.git",
       "skillPath": "skills/caveman/SKILL.md",
-      "skillFolderHash": "02b646b008b9d1e5b67e5f65fab56fd7073d9212",
+      "skillFolderHash": "2d9a159619205a175577d6540b1ed64fd73d83b1",
       "installedAt": "2026-06-12T14:58:09.222Z",
-      "updatedAt": "2026-09-16T08:54:08.713Z"
+      "updatedAt": "2026-09-26T09:18:11.409Z"
     },
     "caveman-compress": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "sourceUrl": "https://github.com/JuliusBrussee/caveman.git",
       "skillPath": "skills/caveman-compress/SKILL.md",
-      "skillFolderHash": "1f4d964edb53b0ba264638a028011246a3839013",
+      "skillFolderHash": "21aa5ecc4fdf9667604102c6ec723030ec4f4b9c",
       "installedAt": "2026-06-12T14:58:09.222Z",
-      "updatedAt": "2026-09-16T08:54:11.253Z"
+      "updatedAt": "2026-09-26T09:18:13.497Z"
     },
     "orchestration": {
       "source": "stablyai/orca",
       "sourceType": "github",
       "sourceUrl": "https://github.com/stablyai/orca.git",
       "skillPath": "skills/orchestration/SKILL.md",
-      "skillFolderHash": "ebd864919dd8cab9d7049fc624c9afeebce2767c",
+      "skillFolderHash": "b0cd1d58b0c317cf7c3726fef7e6b1197c405246",
       "installedAt": "2026-07-17T12:46:28.315Z",
-      "updatedAt": "2026-09-10T23:32:04.222Z"
+      "updatedAt": "2026-09-26T09:18:28.154Z"
     },
     "computer-use": {
       "source": "stablyai/orca",
       "sourceType": "github",
       "sourceUrl": "https://github.com/stablyai/orca.git",
       "skillPath": "skills/computer-use/SKILL.md",
-      "skillFolderHash": "fab1436f0d73889492279544eadebc9bcc2694b6",
+      "skillFolderHash": "b59f27370a41225c22127e91da0c91cd2519f217",
       "installedAt": "2026-07-17T12:49:29.929Z",
-      "updatedAt": "2026-09-10T23:31:43.120Z"
+      "updatedAt": "2026-09-26T09:18:42.977Z"
     },
     "orca-cli": {
       "source": "stablyai/orca",
       "sourceType": "github",
       "sourceUrl": "https://github.com/stablyai/orca.git",
       "skillPath": "skills/orca-cli/SKILL.md",
-      "skillFolderHash": "0c90a5b8b422a93ca806af6df3b65445ab5b2072",
+      "skillFolderHash": "572f7952ac451a30a9c2451b472a639b125ee584",
       "installedAt": "2026-07-17T12:49:29.930Z",
-      "updatedAt": "2026-09-16T08:54:19.908Z"
+      "updatedAt": "2026-09-26T09:18:57.637Z"
     },
     "orca-per-workspace-env": {
       "source": "stablyai/orca",
       "sourceType": "github",
       "sourceUrl": "https://github.com/stablyai/orca.git",
       "skillPath": "skills/orca-per-workspace-env/SKILL.md",
-      "skillFolderHash": "49103d96472ad790758f14cfc3ed5c69434a6f1b",
+      "skillFolderHash": "58dfb5dc3ad287a6a42625f9d15c7c0c3dfd02ec",
       "installedAt": "2026-07-19T08:50:14.957Z",
-      "updatedAt": "2026-09-10T23:31:01.542Z"
+      "updatedAt": "2026-09-26T09:19:12.657Z"
     },
     "git-lgnh": {
       "source": "loegnah/ai-kit",
@@ -100,7 +91,7 @@
       "skillFolderHash": "4385e794dc0f55ed640c4ba981eec4ac978a9e5c",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.989Z",
-      "updatedAt": "2026-09-21T07:16:47.353Z"
+      "updatedAt": "2026-09-26T09:20:15.842Z"
     },
     "work-lgnh": {
       "source": "loegnah/ai-kit",
@@ -110,7 +101,7 @@
       "skillFolderHash": "d71c0f69e65e9cf4d03a15b1e4d1f4105f76a8d0",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.994Z",
-      "updatedAt": "2026-09-21T07:16:47.353Z"
+      "updatedAt": "2026-09-26T09:20:15.845Z"
     },
     "etc-lgnh": {
       "source": "loegnah/ai-kit",
@@ -120,7 +111,7 @@
       "skillFolderHash": "903a1d0ec667c7a2e1bc0013e67534333f265437",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-07T06:18:48.374Z",
-      "updatedAt": "2026-09-21T07:16:47.353Z"
+      "updatedAt": "2026-09-26T09:20:15.841Z"
     },
     "ego-browser": {
       "source": "citrolabs/ego-lite",
@@ -136,18 +127,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "6ce840146555c1555daa28fcce61b5bdfafd02a7",
+      "skillFolderHash": "b15b596ca202592330107c5adff030614e88d877",
       "installedAt": "2026-09-14T10:43:59.358Z",
-      "updatedAt": "2026-09-16T08:54:30.895Z"
+      "updatedAt": "2026-09-26T09:19:20.715Z"
     },
     "archify": {
       "source": "tt-a1i/archify",
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "9d919f12fd71485866d79aeacd2d9dae2883433a",
+      "skillFolderHash": "68f9fae4d0b4a17c5cd8cba9682e7306f879d4bb",
       "installedAt": "2026-09-16T08:53:01.517Z",
-      "updatedAt": "2026-09-16T08:53:01.517Z"
+      "updatedAt": "2026-09-26T09:19:26.620Z"
     },
     "brain-lgnh": {
       "source": "loegnah/ai-kit",
@@ -157,7 +148,7 @@
       "skillFolderHash": "4c49154c679d65b2d759d9f579da17948973304d",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:02:29.575Z",
-      "updatedAt": "2026-09-21T07:16:47.352Z"
+      "updatedAt": "2026-09-26T09:20:15.836Z"
     },
     "dev-lgnh": {
       "source": "loegnah/ai-kit",
@@ -167,7 +158,17 @@
       "skillFolderHash": "a3a498bf8275469856db62111c0f5f970e7be24d",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:38:07.508Z",
-      "updatedAt": "2026-09-21T07:16:47.353Z"
+      "updatedAt": "2026-09-26T09:20:15.840Z"
+    },
+    "lang-lgnh": {
+      "source": "loegnah/ai-kit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/loegnah/ai-kit.git",
+      "skillPath": "skills/lang-lgnh/SKILL.md",
+      "skillFolderHash": "bd9aea8863da609597b99f7863aee1a5e9ca46ca",
+      "pluginName": "loegnah-ai-kit",
+      "installedAt": "2026-09-26T09:20:15.844Z",
+      "updatedAt": "2026-09-26T09:20:15.844Z"
     }
   },
   "dismissed": {
