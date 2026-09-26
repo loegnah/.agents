@@ -91,7 +91,7 @@
       "skillFolderHash": "4385e794dc0f55ed640c4ba981eec4ac978a9e5c",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.989Z",
-      "updatedAt": "2026-09-26T09:20:15.842Z"
+      "updatedAt": "2026-09-26T09:52:17.787Z"
     },
     "work-lgnh": {
       "source": "loegnah/ai-kit",
@@ -101,7 +101,7 @@
       "skillFolderHash": "d71c0f69e65e9cf4d03a15b1e4d1f4105f76a8d0",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.994Z",
-      "updatedAt": "2026-09-26T09:20:15.845Z"
+      "updatedAt": "2026-09-26T09:52:17.790Z"
     },
     "etc-lgnh": {
       "source": "loegnah/ai-kit",
@@ -111,7 +111,7 @@
       "skillFolderHash": "903a1d0ec667c7a2e1bc0013e67534333f265437",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-07T06:18:48.374Z",
-      "updatedAt": "2026-09-26T09:20:15.841Z"
+      "updatedAt": "2026-09-26T09:52:17.787Z"
     },
     "ego-browser": {
       "source": "citrolabs/ego-lite",
@@ -145,10 +145,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/loegnah/ai-kit.git",
       "skillPath": "skills/brain-lgnh/SKILL.md",
-      "skillFolderHash": "4c49154c679d65b2d759d9f579da17948973304d",
+      "skillFolderHash": "67567f00f00212180065084da9d72299617acc1a",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:02:29.575Z",
-      "updatedAt": "2026-09-26T09:20:15.836Z"
+      "updatedAt": "2026-09-26T09:52:17.785Z"
     },
     "dev-lgnh": {
       "source": "loegnah/ai-kit",
@@ -158,7 +158,7 @@
       "skillFolderHash": "a3a498bf8275469856db62111c0f5f970e7be24d",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:38:07.508Z",
-      "updatedAt": "2026-09-26T09:20:15.840Z"
+      "updatedAt": "2026-09-26T09:52:17.786Z"
     },
     "lang-lgnh": {
       "source": "loegnah/ai-kit",
@@ -168,7 +168,7 @@
       "skillFolderHash": "bd9aea8863da609597b99f7863aee1a5e9ca46ca",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-26T09:20:15.844Z",
-      "updatedAt": "2026-09-26T09:20:15.844Z"
+      "updatedAt": "2026-09-26T09:52:17.788Z"
     }
   },
   "dismissed": {
