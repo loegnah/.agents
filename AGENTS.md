@@ -1,12 +1,12 @@
-## Common
+## Language
 
-- !important _Answer in Korean_
-- No edits without an explicit edit or in-progress mention
+- Use Korean only when the user uses Korean, and answer in English otherwise.
 
 ## Code
 
 - Replace comments with code naming. (Comments _only when absolutely necessary_, max 2 lines)
 - Never roll back when there are changes that differ from previous changes. Assume the user can also modify the code, so assume it was modified as intended. However, ask if the changes conflict too much.
+- No edits without an explicit edit or in-progress mention
 
 ## Guideline Updates
 
