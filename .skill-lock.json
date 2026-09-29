@@ -169,6 +169,15 @@
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-26T09:20:15.844Z",
       "updatedAt": "2026-09-27T12:17:59.045Z"
+    },
+    "hindsight-docs": {
+      "source": "vectorize-io/hindsight-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vectorize-io/hindsight-skills.git",
+      "skillPath": "skills/hindsight-docs/SKILL.md",
+      "skillFolderHash": "1bebc07c8b94e4441f314a70d2615655fa17f0f4",
+      "installedAt": "2026-09-29T01:59:17.967Z",
+      "updatedAt": "2026-09-29T01:59:17.967Z"
     }
   },
   "dismissed": {
