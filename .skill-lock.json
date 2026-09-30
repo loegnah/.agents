@@ -91,7 +91,7 @@
       "skillFolderHash": "d6dcbc25795270912588d7a1c456fcebeb751eae",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.989Z",
-      "updatedAt": "2026-09-27T12:17:59.045Z"
+      "updatedAt": "2026-09-30T06:59:14.227Z"
     },
     "work-lgnh": {
       "source": "loegnah/ai-kit",
@@ -101,17 +101,17 @@
       "skillFolderHash": "d71c0f69e65e9cf4d03a15b1e4d1f4105f76a8d0",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.994Z",
-      "updatedAt": "2026-09-27T12:17:59.045Z"
+      "updatedAt": "2026-09-30T06:59:14.228Z"
     },
     "etc-lgnh": {
       "source": "loegnah/ai-kit",
       "sourceType": "github",
       "sourceUrl": "https://github.com/loegnah/ai-kit.git",
       "skillPath": "skills/etc-lgnh/SKILL.md",
-      "skillFolderHash": "903a1d0ec667c7a2e1bc0013e67534333f265437",
+      "skillFolderHash": "ec761ac12e91a9157287eb9873acbd5f88311bef",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-07T06:18:48.374Z",
-      "updatedAt": "2026-09-27T12:17:59.044Z"
+      "updatedAt": "2026-09-30T06:59:14.227Z"
     },
     "ego-browser": {
       "source": "citrolabs/ego-lite",
@@ -148,7 +148,7 @@
       "skillFolderHash": "67567f00f00212180065084da9d72299617acc1a",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:02:29.575Z",
-      "updatedAt": "2026-09-27T12:17:59.042Z"
+      "updatedAt": "2026-09-30T06:59:14.226Z"
     },
     "dev-lgnh": {
       "source": "loegnah/ai-kit",
@@ -158,7 +158,7 @@
       "skillFolderHash": "a3a498bf8275469856db62111c0f5f970e7be24d",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:38:07.508Z",
-      "updatedAt": "2026-09-27T12:17:59.044Z"
+      "updatedAt": "2026-09-30T06:59:14.227Z"
     },
     "lang-lgnh": {
       "source": "loegnah/ai-kit",
@@ -168,7 +168,7 @@
       "skillFolderHash": "7e59f6d09ee4ff7bd2b280bb2af3a9c3da03055f",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-26T09:20:15.844Z",
-      "updatedAt": "2026-09-27T12:17:59.045Z"
+      "updatedAt": "2026-09-30T06:59:14.227Z"
     },
     "hindsight-docs": {
       "source": "vectorize-io/hindsight-skills",
