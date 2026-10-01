@@ -91,7 +91,7 @@
       "skillFolderHash": "d6dcbc25795270912588d7a1c456fcebeb751eae",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.989Z",
-      "updatedAt": "2026-09-30T06:59:14.227Z"
+      "updatedAt": "2026-10-01T08:08:11.925Z"
     },
     "work-lgnh": {
       "source": "loegnah/ai-kit",
@@ -101,7 +101,7 @@
       "skillFolderHash": "d71c0f69e65e9cf4d03a15b1e4d1f4105f76a8d0",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.994Z",
-      "updatedAt": "2026-09-30T06:59:14.228Z"
+      "updatedAt": "2026-10-01T08:08:11.927Z"
     },
     "etc-lgnh": {
       "source": "loegnah/ai-kit",
@@ -111,7 +111,7 @@
       "skillFolderHash": "ec761ac12e91a9157287eb9873acbd5f88311bef",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-07T06:18:48.374Z",
-      "updatedAt": "2026-09-30T06:59:14.227Z"
+      "updatedAt": "2026-10-01T08:08:11.925Z"
     },
     "ego-browser": {
       "source": "citrolabs/ego-lite",
@@ -148,17 +148,17 @@
       "skillFolderHash": "67567f00f00212180065084da9d72299617acc1a",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:02:29.575Z",
-      "updatedAt": "2026-09-30T06:59:14.226Z"
+      "updatedAt": "2026-10-01T08:08:11.921Z"
     },
     "dev-lgnh": {
       "source": "loegnah/ai-kit",
       "sourceType": "github",
       "sourceUrl": "https://github.com/loegnah/ai-kit.git",
       "skillPath": "skills/dev-lgnh/SKILL.md",
-      "skillFolderHash": "a3a498bf8275469856db62111c0f5f970e7be24d",
+      "skillFolderHash": "40c565684a2e0c8f405c1a6a721a6f7c12ec1dcc",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:38:07.508Z",
-      "updatedAt": "2026-09-30T06:59:14.227Z"
+      "updatedAt": "2026-10-01T08:08:11.924Z"
     },
     "lang-lgnh": {
       "source": "loegnah/ai-kit",
@@ -168,7 +168,7 @@
       "skillFolderHash": "7e59f6d09ee4ff7bd2b280bb2af3a9c3da03055f",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-26T09:20:15.844Z",
-      "updatedAt": "2026-09-30T06:59:14.227Z"
+      "updatedAt": "2026-10-01T08:08:11.926Z"
     },
     "hindsight-docs": {
       "source": "vectorize-io/hindsight-skills",
@@ -178,6 +178,16 @@
       "skillFolderHash": "1bebc07c8b94e4441f314a70d2615655fa17f0f4",
       "installedAt": "2026-09-29T01:59:17.967Z",
       "updatedAt": "2026-09-29T01:59:17.967Z"
+    },
+    "sdlc-lgnh": {
+      "source": "loegnah/ai-kit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/loegnah/ai-kit.git",
+      "skillPath": "skills/sdlc-lgnh/SKILL.md",
+      "skillFolderHash": "d0a699480bfe41ae4b68cb27da0435a449f108bb",
+      "pluginName": "loegnah-ai-kit",
+      "installedAt": "2026-10-01T07:56:26.171Z",
+      "updatedAt": "2026-10-01T08:08:11.927Z"
     }
   },
   "dismissed": {
