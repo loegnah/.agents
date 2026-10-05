@@ -25,27 +25,27 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/JuliusBrussee/caveman.git",
       "skillPath": "skills/cavecrew/SKILL.md",
-      "skillFolderHash": "58b9a0bdb00d97953bfc840cb4dc3b38faf03759",
+      "skillFolderHash": "4bf94f936d07bbc1c1924f80879c0197f591c036",
       "installedAt": "2026-06-12T14:58:09.220Z",
-      "updatedAt": "2026-09-16T08:54:06.633Z"
+      "updatedAt": "2026-10-05T15:42:38.957Z"
     },
     "caveman": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "sourceUrl": "https://github.com/JuliusBrussee/caveman.git",
       "skillPath": "skills/caveman/SKILL.md",
-      "skillFolderHash": "2d9a159619205a175577d6540b1ed64fd73d83b1",
+      "skillFolderHash": "ce6b7ff0b692d2cd445989bf7e6ce74698aa9a57",
       "installedAt": "2026-06-12T14:58:09.222Z",
-      "updatedAt": "2026-09-26T09:18:11.409Z"
+      "updatedAt": "2026-10-05T15:42:40.967Z"
     },
     "caveman-compress": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "sourceUrl": "https://github.com/JuliusBrussee/caveman.git",
       "skillPath": "skills/caveman-compress/SKILL.md",
-      "skillFolderHash": "21aa5ecc4fdf9667604102c6ec723030ec4f4b9c",
+      "skillFolderHash": "cdae212426a08bfaffc06c4bda9854e4db20ca21",
       "installedAt": "2026-06-12T14:58:09.222Z",
-      "updatedAt": "2026-09-26T09:18:13.497Z"
+      "updatedAt": "2026-10-05T15:42:43.036Z"
     },
     "orchestration": {
       "source": "stablyai/orca",
@@ -127,18 +127,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "ccc6d186a75f4383e1b3c024fc5d2a6292968cda",
+      "skillFolderHash": "585a486c057a9a9cf9623638b976969cc3703cfb",
       "installedAt": "2026-09-14T10:43:59.358Z",
-      "updatedAt": "2026-09-28T01:37:59.678Z"
+      "updatedAt": "2026-10-05T15:42:49.815Z"
     },
     "archify": {
       "source": "tt-a1i/archify",
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "68f9fae4d0b4a17c5cd8cba9682e7306f879d4bb",
+      "skillFolderHash": "b39bcc918173641199e7ed3e4c54bf8fddd47848",
       "installedAt": "2026-09-16T08:53:01.517Z",
-      "updatedAt": "2026-09-26T09:19:26.620Z"
+      "updatedAt": "2026-10-05T15:42:56.616Z"
     },
     "brain-lgnh": {
       "source": "loegnah/ai-kit",
