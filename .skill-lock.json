@@ -91,7 +91,7 @@
       "skillFolderHash": "d6dcbc25795270912588d7a1c456fcebeb751eae",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.989Z",
-      "updatedAt": "2026-10-03T14:34:28.132Z"
+      "updatedAt": "2026-10-08T07:34:26.688Z"
     },
     "work-lgnh": {
       "source": "loegnah/ai-kit",
@@ -101,17 +101,17 @@
       "skillFolderHash": "d71c0f69e65e9cf4d03a15b1e4d1f4105f76a8d0",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-06T16:41:12.994Z",
-      "updatedAt": "2026-10-03T14:34:28.133Z"
+      "updatedAt": "2026-10-08T07:34:26.692Z"
     },
     "etc-lgnh": {
       "source": "loegnah/ai-kit",
       "sourceType": "github",
       "sourceUrl": "https://github.com/loegnah/ai-kit.git",
       "skillPath": "skills/etc-lgnh/SKILL.md",
-      "skillFolderHash": "ec761ac12e91a9157287eb9873acbd5f88311bef",
+      "skillFolderHash": "6f0d3e5ae901bc3a4fa3dbdb689aaa7c5702339d",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-07T06:18:48.374Z",
-      "updatedAt": "2026-10-03T14:34:28.131Z"
+      "updatedAt": "2026-10-08T07:34:26.687Z"
     },
     "ego-browser": {
       "source": "citrolabs/ego-lite",
@@ -148,7 +148,7 @@
       "skillFolderHash": "8b8efad46d9d392147e4910acc12e35e00bd7bb2",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:02:29.575Z",
-      "updatedAt": "2026-10-03T14:34:28.130Z"
+      "updatedAt": "2026-10-08T07:34:26.681Z"
     },
     "dev-lgnh": {
       "source": "loegnah/ai-kit",
@@ -158,7 +158,7 @@
       "skillFolderHash": "40c565684a2e0c8f405c1a6a721a6f7c12ec1dcc",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-17T10:38:07.508Z",
-      "updatedAt": "2026-10-03T14:34:28.131Z"
+      "updatedAt": "2026-10-08T07:34:26.686Z"
     },
     "lang-lgnh": {
       "source": "loegnah/ai-kit",
@@ -168,7 +168,7 @@
       "skillFolderHash": "7e59f6d09ee4ff7bd2b280bb2af3a9c3da03055f",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-09-26T09:20:15.844Z",
-      "updatedAt": "2026-10-03T14:34:28.132Z"
+      "updatedAt": "2026-10-08T07:34:26.689Z"
     },
     "hindsight-docs": {
       "source": "vectorize-io/hindsight-skills",
@@ -187,7 +187,7 @@
       "skillFolderHash": "d0a699480bfe41ae4b68cb27da0435a449f108bb",
       "pluginName": "loegnah-ai-kit",
       "installedAt": "2026-10-01T07:56:26.171Z",
-      "updatedAt": "2026-10-03T14:34:28.133Z"
+      "updatedAt": "2026-10-08T07:34:26.690Z"
     }
   },
   "dismissed": {
@@ -204,6 +204,7 @@
     "kilo",
     "kimi-code-cli",
     "opencode",
+    "pi",
     "warp",
     "zed"
   ]
