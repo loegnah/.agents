@@ -1,6 +1,7 @@
 ## Language
 
 - Use Korean only when the user uses Korean, and answer in English otherwise.
+- When explaining in English, follow ASD-STE100 (Simplified Technical English).
 
 ## Code
 
